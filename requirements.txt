@@ -1,0 +1,2 @@
+mypy==0.942
+returns @ git+https://github.com/dry-python/returns@master
